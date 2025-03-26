@@ -1,4 +1,4 @@
-"""# 📊 Employment & Labor Trends Dashboard
+## 📊 Employment & Labor Trends Dashboard
 
 Understanding employment and labor trends is crucial for businesses, policymakers, and job seekers.  
 This interactive **Tableau dashboard** provides a data-driven view of employment distribution, labor force participation, and unemployment trends across U.S. states.
